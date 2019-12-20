@@ -1,0 +1,8 @@
+version: '3.6'
+services:
+  app:
+    image: tinkering
+    environment:
+      FAV_INSTRUMENT: ${FAV_INSTRUMENT}
+      FAV_COLOR: ${FAV_COLOR}
+      FAV_ACTOR: ${FAV_ACTOR}
