@@ -19,6 +19,7 @@ Seinfeld
 # WITH variables
 ```
 > rm .env
+
 > docker-compose up
 ```
 guitar
